@@ -10,7 +10,7 @@
 
 Zdroj dat: https://www.ncdc.noaa.gov/cdo-web/search
 
-Ukázkový report ze školení: [Ukázkový report PWBI1](https://app.powerbi.com/view?r=eyJrIjoiNTg0ODhkYWYtNTMxOC00M2YzLTg2YTAtMDhjOWE0ZDIxNzY3IiwidCI6IjU4NzNhNWVlLTkzNTYtNGYyMy04YzMyLTQ5ODRmYjE5ZmZmMyIsImMiOjh9&pageName=ReportSectionfe84644d795c3ccb1a1a)
+Ukázkový report ze školení: [Ukázkový report PWBI1](https://app.powerbi.com/view?r=eyJrIjoiNDk2ZmE1ZjUtN2MyMC00NGRjLTllN2QtOWFkNjFlOTdhZmRiIiwidCI6IjU4NzNhNWVlLTkzNTYtNGYyMy04YzMyLTQ5ODRmYjE5ZmZmMyIsImMiOjh9)
 
 Ukázkové reporty Microsoft: [Reporty Microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets)
 
