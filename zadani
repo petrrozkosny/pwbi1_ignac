@@ -1,0 +1,28 @@
+cv07 maximalni srazky = maximální srážky v lokalitě na řádku
+cv08 maximalni srazky 2000 = maximální srážky v lokalitě
+na řádku v roce 2000
+cv09 maximalni srazky 2000 mesic 7 = maximální srážky v lokalitě
+na řádku, v roce 2000, měsíci 7
+cv10 kpi srazky = pokud jsou maximální srážky v lokalitě na řádku > 100 tak "OK
+jinak "KO"
+cv11 maximalni teplota = maximum z maximalni_teplota v lokalitě na řádku
+cv12 maximalni teplota počet = kolikrát (počet) se odehrála v lokalitě na řádku
+maximální teplota
+cv13 maximalni datum = maximální datum v lokalitě na řádku
+cv14 srazky max datum = srážky v lokalitě na řádku k jejímu poslednímu datumu
+cv15 počet datumu prselo malo = kolikrát v lokalitě na řádku vizuálu pršelo mezi 5-15 (z obou sran
+uzavřený interval) srážek
+cv16 podíl srazek lokalita = jak se lokalita na řádku podílí na
+sumě srážek za všechny lokality?
+
+vizuál typu karta: Lokalita s nejvyššími srážkami v roce 2000 mezi lokalitami RUZYNE,MOSNOV
+
+
+
+
+
+
+
+
+
+
